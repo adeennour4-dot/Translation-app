@@ -20,6 +20,9 @@ jobs:
       with:
         java-version: '17'
         distribution: 'temurin'
+        
+    - name: Verify Java version
+      run: java -version
 
     - name: Setup Android SDK
       uses: android-actions/setup-android@v3
