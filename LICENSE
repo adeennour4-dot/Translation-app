@@ -1,0 +1,66 @@
+MIT License
+
+Copyright (c) 2024 Medical Translator Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+THIRD-PARTY LICENSES
+
+This project includes or depends on the following third-party software:
+
+1. Apache PDFBox
+   License: Apache License 2.0
+   Copyright: The Apache Software Foundation
+
+2. iText 7
+   License: AGPL v3 / Commercial License
+   Copyright: iText Group NV
+
+3. LanguageTool
+   License: LGPL v2.1
+   Copyright: LanguageTool contributors
+
+4. llama.cpp
+   License: MIT License
+   Copyright: Georgi Gerganov and contributors
+
+5. Material Components for Android
+   License: Apache License 2.0
+   Copyright: The Android Open Source Project
+
+6. OkHttp
+   License: Apache License 2.0
+   Copyright: Square, Inc.
+
+7. Gson
+   License: Apache License 2.0
+   Copyright: Google Inc.
+
+8. Android PDF Viewer
+   License: Apache License 2.0
+   Copyright: Bartosz Schiller
+
+9. Noto Sans Arabic Font
+   License: SIL Open Font License 1.1
+   Copyright: Google Inc.
+
+For complete license texts of third-party components, please refer to their respective repositories and documentation.
+

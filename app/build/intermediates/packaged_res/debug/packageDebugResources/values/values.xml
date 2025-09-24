@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="dark_background">#FF121212</color>
+    <color name="dark_on_primary">#FF000000</color>
+    <color name="dark_on_surface">#FFFFFFFF</color>
+    <color name="dark_primary">#FF64B5F6</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="medical_accent">#FF4CAF50</color>
+    <color name="medical_background">#FFF5F5F5</color>
+    <color name="medical_error">#FFF44336</color>
+    <color name="medical_primary">#FF2196F3</color>
+    <color name="medical_primary_dark">#FF1976D2</color>
+    <color name="medical_surface">#FFFFFFFF</color>
+    <color name="progress_background">#FFE0E0E0</color>
+    <color name="progress_primary">#FF2196F3</color>
+    <color name="progress_secondary">#FF4CAF50</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about">About</string>
+    <string name="ai_translation">AI Translation</string>
+    <string name="app_name">Medical Translator</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dictionary_lookup">Dictionary Lookup</string>
+    <string name="english_to_arabic">English to Arabic</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="grammar_correction">Grammar Correction</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="no_pdf_selected">No PDF selected</string>
+    <string name="offline_medical_translator">Offline Medical Translator</string>
+    <string name="original_pdf">Original PDF</string>
+    <string name="pdf_generation">PDF Generation</string>
+    <string name="processing">Processing...</string>
+    <string name="select_pdf">Select PDF</string>
+    <string name="settings">Settings</string>
+    <string name="setup_instructions">Setup Instructions</string>
+    <string name="termux_not_configured">Termux services not configured. Please follow setup instructions.</string>
+    <string name="termux_setup_required">Termux Setup Required</string>
+    <string name="translate">Translate</string>
+    <string name="translated_pdf">Translated PDF</string>
+    <string name="translation_complete">Translation Complete</string>
+    <string name="translation_in_progress">Translation in progress...</string>
+    <string name="translation_progress">Translation Progress</string>
+    <string name="version">Version 1.0</string>
+    <style name="Theme.MedicalTranslator" parent="Theme.Material3.DayNight">
+        
+        <item name="colorPrimary">@color/medical_primary</item>
+        <item name="colorPrimaryVariant">@color/medical_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/medical_accent</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:windowBackground">@color/medical_background</item>
+    </style>
+    <style name="Theme.MedicalTranslator.Dark" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/dark_primary</item>
+        <item name="colorOnPrimary">@color/dark_on_primary</item>
+        <item name="colorSurface">@color/dark_surface</item>
+        <item name="colorOnSurface">@color/dark_on_surface</item>
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="android:statusBarColor">@color/dark_surface</item>
+    </style>
+</resources>

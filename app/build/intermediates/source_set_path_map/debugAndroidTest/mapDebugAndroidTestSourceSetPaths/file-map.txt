@@ -1,0 +1,7 @@
+com.medicaltranslator.test.app-core-1.5.0-0 C:\Users\adeen\.gradle\caches\9.0-milestone-1\transforms\20d549cb4bef4b08f3159463ead90ec7\transformed\core-1.5.0\res
+com.medicaltranslator.test.app-annotation-experimental-1.3.0-1 C:\Users\adeen\.gradle\caches\9.0-milestone-1\transforms\b3079128c2f18d2fefc46c5006294ef7\transformed\annotation-experimental-1.3.0\res
+com.medicaltranslator.test.app-androidTest-2 E:\desktop\MedicalTranslator\app\build\generated\res\resValues\androidTest\debug
+com.medicaltranslator.test.app-updated_navigation_xml-3 E:\desktop\MedicalTranslator\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.medicaltranslator.test.app-mergeDebugAndroidTestResources-4 E:\desktop\MedicalTranslator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.medicaltranslator.test.app-mergeDebugAndroidTestResources-5 E:\desktop\MedicalTranslator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.medicaltranslator.test.app-debugAndroidTest-6 E:\desktop\MedicalTranslator\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
